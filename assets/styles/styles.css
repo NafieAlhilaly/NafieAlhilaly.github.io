@@ -1,0 +1,59 @@
+body{
+    background-color: #F1F0F5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main div div h5, h2, p {
+    margin-top: -15px;
+}
+
+header nav div div a:active {
+    background-color: blueviolet  !important;
+}
+
+
+main div div p {
+    margin-top: -10px;
+}
+
+main {
+    margin-top: 70px;
+}
+
+.social-list {
+    list-style-type: none;
+}
+
+.social-list li {
+    margin-left: 30%;
+    margin-top: 3px;
+}
+
+.social-list a {
+    text-decoration: none;
+    color: black;
+}
+
+.social-list a:hover {
+    color: blueviolet;
+}
+
+.email:hover {
+    color: blueviolet;
+}
+
+.cta {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 3px;
+    width: 50px;
+    height: 30px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cta:hover {
+    background-color: #443266;
+    color: white;
+}
