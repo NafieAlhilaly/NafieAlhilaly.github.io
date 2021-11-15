@@ -57,3 +57,8 @@ main {
     background-color: #443266;
     color: white;
 }
+
+.project-card {
+    width: 20rem;
+    height: 27rem;
+}
