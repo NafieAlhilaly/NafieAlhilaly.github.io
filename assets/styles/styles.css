@@ -62,3 +62,16 @@ main {
     width: 20rem;
     height: 27rem;
 }
+
+.profile-pic {
+    width: 300px;
+    height: 420px;
+}
+@media only screen and (max-width: 600px) {
+    .profile-pic {
+        border-radius: 50%;
+        width: 270px;
+        height: 270px;
+    }
+    
+}
